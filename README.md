@@ -34,4 +34,6 @@ Denver county had 306,055 votes which were the largest number of votes.
 <img width="304" alt="Screen Shot 2021-07-10 at 6 00 12 PM" src="https://user-images.githubusercontent.com/85711507/125178258-ae4d7800-e1a8-11eb-89c1-0453b8b1b309.png">
 
 # Election-Audit Summary
-
+The same script used for this Election audit can be made reusable with some modifications for any election. A couple of modifications that can be used are:
+1. We can make this script reusable by introducing a user given input of election results file path from the command line.
+2. We will need to modify the output based on the input given.
